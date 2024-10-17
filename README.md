@@ -14,6 +14,7 @@
 * RunDefusion
 * GIMP
 * MongoDB
+* Open Office
 
 ### Download
 * [NodeOS_ARM64.iso](arm64.nodeos.com)
