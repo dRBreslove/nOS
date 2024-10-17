@@ -13,6 +13,7 @@
 * Telegram
 * RunDefusion
 * GIMP
+* MongoDB
 
 ### Download
 * [NodeOS_ARM64.iso](arm64.nodeos.com)
