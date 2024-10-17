@@ -7,7 +7,11 @@
 ### Componenets
 * NodeJS
 * Visual Studio Code
-× VirtualBox
+* VirtualBox
 * NWJS
 * GitHub Desktop
 * Telegram
+* RunDefusion
+
+### Download
+* [NodeOS_ARM64.iso](arm64.nodeos.com)
