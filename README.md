@@ -12,7 +12,7 @@
 * GitHub Desktop
 * Telegram
 * RunDefusion
-* GIMP
+* Blender
 * MongoDB
 * Open Office
 
