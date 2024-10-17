@@ -12,6 +12,7 @@
 * GitHub Desktop
 * Telegram
 * RunDefusion
+* GIMP
 
 ### Download
 * [NodeOS_ARM64.iso](arm64.nodeos.com)
