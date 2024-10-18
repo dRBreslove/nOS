@@ -1,3 +1,5 @@
+![logo](logo.svg)
+
 # NodeOS
  The Operating System of the Quatom Computer
 ### With multilayer TLS
