@@ -1,4 +1,4 @@
-![logo](logo.svg)
+![logo](logo.jpg)
 
 # NodeOS
  The Operating System of the Quatom Computer
